@@ -7,4 +7,6 @@ Adquirindo estudos em visão computacional, realizo meu primeiro projeto de dete
 <br>
 3 - O algortimo se baseia no método Hough Circles da biblioteca OpenCv, e utiliza de bibliotecas auxiliares como NumPy e MatPlotLib.<br>
 <br>
-4 - Existem comentarios que são trechos de código para a utilização desse algoritmo no Google Colab, com a função de fazer o upload da imagem.
+4 - Existem comentarios que são trechos de código para a utilização desse algoritmo no Google Colab, com a função de fazer o upload da imagem.<br>
+<br>
+5 - Existem comentarios que são trechos de código para redimensionamento e corte de imagem, que podem ser úteis em relação ao processo de tratamento das imagens.
